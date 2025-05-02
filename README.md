@@ -41,25 +41,21 @@
 
 ###  Prerequisites
 
-- Android Studio Flamingo (or newer)
+- Android Studio Flamingo
 - Emulator or Android device (Android 9+)
 - Git installed
 
 ###  Installation Steps
 
-```bash
 git clone https://github.com/VCDN-2025/prog7313-part-2-muhammad-shaikh.git
-cd BudgetBuddy
 Open the project in Android Studio.
 
 Let Gradle sync and build the project.
 
 Run the app on an emulator or connected device.
 
-📂 Project Structure
-bash
-Copy
-Edit
+Project Structure
+
 BudgetBuddy/
 ├── app/
 │   ├── src/
@@ -71,22 +67,13 @@ BudgetBuddy/
 ├── build.gradle.kts
 └── README.md
 
-GitHub Actions & Testing
-This app uses a GitHub Actions workflow to automatically:
-
-Build the app
-
-Run compile-time checks
-
-Ensure cross-device compatibility
-
 
 APK & Demo
 Download APK: https://drive.google.com/file/d/174VRpm0Um4aXEM5fRzh4ZdC1wPq8kzFi/view?usp=sharing
 
-Watch Demo Video: INSERT YOUTUBE LINK HERE
+Watch Demo Video: https://youtu.be/s_C_IKXGgl0?si=N_ezeoNsg1D1aC-7
 
-👨‍💻 Author
+Authors
 Muhammad Shaikh - ST10357430
 Ubaid Omarjee - ST10315716
 Hassan Abdul Razzaq - ST10266113
